@@ -2,7 +2,7 @@
 
 Este es un programa simple de **Conversor de Temperaturas** que permite convertir entre tres unidades de temperatura: **Fahrenheit**, **Celsius** y **Kelvin**. La interfaz gráfica está creada utilizando **Tkinter** en **Python**. El usuario puede ingresar la temperatura en cualquiera de las tres unidades y el programa mostrará las conversiones correspondientes en las otras dos unidades.
 
-<p align="center"> <img src="screenshot.png" alt="Conversor de Temperaturas" width="500"> </p>
+<p align="center"> <img src="screenshot.png" alt="Conversor de Temperaturas" width="600"> </p>
 
 ## Características
 
